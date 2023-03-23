@@ -25,6 +25,14 @@ If empty, please remove the section title -->
 
 -->
 
+### Breaking changes
+
+<!-- List of breaking changes brought by the PR. Proposed format: "- _(scope)_ Description". E.g.
+
+- _(node role)_ `avalanche_tracked_subnets` has been renamed to `avalanchego_track_subnets`
+
+-->
+
 ### Additional comments
 
 <!-- You can for example ask for feedback here or link to new issues deriving from the PR.
