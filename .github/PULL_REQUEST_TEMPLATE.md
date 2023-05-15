@@ -18,10 +18,12 @@ If empty, please remove the section title -->
 
 ### Changes
 
-<!-- List of changes brought by the PR. Proposed format: "- _(scope)_ Description". E.g.
+<!-- List of changes brought by the PR. Proposed format: "- Scope\n  - Description". E.g.
 
-- _(lib)_ Add 4 networks with [Ankr](https://www.ankr.com/) and [Blast](https://blastapi.io/) endpoints to `conf/default.yml` (e.g. `fuji-ankr`). Both services provide decentralized public RPC endpoints. This allows going around Ava Labs' public RPC rate limiting which is very low.
-- _(ci)_ Add a GitHub Actions workflow to run tests on PRs
+- SDK
+  - Add 4 networks with [Ankr](https://www.ankr.com/) and [Blast](https://blastapi.io/) endpoints to `conf/default.yml` (e.g. `fuji-ankr`). Both services provide decentralized public RPC endpoints. This allows going around Ava Labs' public RPC rate limiting which is very low.
+- CI
+  - Add a GitHub Actions workflow to run tests on PRs
 
 -->
 
